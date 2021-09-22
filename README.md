@@ -10,7 +10,7 @@
 
 ##  Connect with me 📨
 
-###### [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:tupyribas@outlook.com/)   [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/tupi-g-839036208/)  
+###### [<img src="https://img.icons8.com/ios-filled/50/4a90e2/resume.png"/>](https://www.linkedin.com/in/tupi-g-839036208/)  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:tupyribas@outlook.com/)   [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://linkfly.to/tupiribas)  
 
 ## Languages that I use  📄
 <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/fluent/60/000000/mysql-logo.png"/>   <img src="https://img.icons8.com/dusk/60/000000/php-logo.png"/>
