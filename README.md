@@ -27,6 +27,6 @@
 
  <img src="https://img.icons8.com/color/78/000000/python--v1.png"/>
 
-## Why Java? 🤔
+## Why Python? 🤔
 
-I'm currently thinking of deepening my studies in the Java programming language because, in addition to being one of the main languages used by companies in the world, it was the one that I had my first contact with Object Oriented Programming. During months of study, I was impressed with the potential that Java can offer.
+I'm currently thinking about deepening my studies in the Python programming language because, in addition to being one of the main languages used by companies in the world, it was the one I had my first contact with Programming. During months of study, I was impressed by the potential that Python can offer.
