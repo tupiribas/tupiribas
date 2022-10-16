@@ -25,7 +25,7 @@
 
 ## My Deepening 🔍
 
- <img src="https://img.icons8.com/color/90/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/78/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/78/000000/python--v1.png"/>
+ <img src="https://img.icons8.com/color/78/000000/python--v1.png"/>
 
 ## Why Java? 🤔
 
