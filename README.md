@@ -4,7 +4,7 @@
 
 ### Hi, there 👋
 
-## I am Tupi  Guedes
+## I am Tupi  Guedes 🌐[portfolio](https://portifoliotupiguedes.herokuapp.com/)
 
 ​	💠 I live in 🇧🇷, northeast 😎🌅
 
