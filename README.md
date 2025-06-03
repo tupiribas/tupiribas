@@ -10,7 +10,7 @@
 
 ​	💠 I'm currently looking an internship as a systems development technician. 💻
 
-​	💠 I learned more about the programming language **Java** 💖
+​	💠 I learned more about the programming language **Python** 💖
 
 ##  Connect with me 📨
 
