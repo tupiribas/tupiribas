@@ -1,32 +1,30 @@
+# Olá! Eu sou o Tupi Guedes 👋
 
+Sou um **desenvolvedor de software** apaixonado por transformar ideias em realidade. Atualmente, busco uma oportunidade de estágio ou trainee para aplicar minhas habilidades e crescer profissionalmente, contribuindo com equipes inovadoras.
 
+---
 
+### Vamos Conectar? 📨
 
-### Hi, there 👋
+* **LinkedIn**: [Meu LinkedIn](www.linkedin.com/in/tupi-g-839036208)
+* **Portfólio/GitHub**: [Meus Projetos](https://github.com/tupiribas?tab=repositories))
+* **E-mail**: [gtupi446@gmail.com](mailto:gtupi446@gmail.com)
 
-## I am Tupi  Guedes 🌐[portfolio](https://creepy-leg-production.up.railway.app/users/tupiribas/repos)
+---
 
-​	💠 I live in 🇧🇷, northeast 😎🌅
+### Minhas Ferramentas e Habilidades 💻
 
-​	💠 I'm currently looking an internship as a systems development technician. 💻
+Possuo experiência com diversas tecnologias e linguagens:
 
-​	💠 I learned more about the programming language **Python** 💖
+* **Linguagens**: Python (com certificado Mimo.org!), Java, PHP, HTML, CSS, JavaScript, C, C#
+* **Frameworks**: Django, Laravel, React Native, Spring
+* **Banco de Dados**: MySQL
+* **Controle de Versão**: Git, GitHub
+* **Ambiente de Desenvolvimento**: VS Code
+* E outras ferramentas.
 
-##  Connect with me 📨
+---
 
-###### [<img src="https://img.icons8.com/ios-filled/50/4a90e2/resume.png"/>](https://linkfly.to/tupiribas)  [<img src="https://img.icons8.com/ultraviolet/48/000000/gmail--v2.png"/>](mailto:tupyribas@outlook.com/)   [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://linkfly.to/tupiribas)  
+### Um Pouco Mais de Mim 💡
 
-## Languages that I use  📄
-<img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/fluent/60/000000/mysql-logo.png"/>   <img src="https://img.icons8.com/dusk/60/000000/php-logo.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/45/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/45/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-
-## Tools that I use  ⚙
-
- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/49/000000/intellij-idea.png"/>  <img src="https://img.icons8.com/office/45/000000/java-eclipse.png"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/><img src="https://img.icons8.com/material-outlined/50/000000/github.png"/><img src="https://img.icons8.com/wired/54/000000/postman-api.png"/> <img src="https://img.icons8.com/windows/50/000000/netbeans.png"/> 
-
-## My Deepening 🔍
-
- <img src="https://img.icons8.com/color/78/000000/python--v1.png"/>
-
-## Why Python? 🤔
-
-I'm currently thinking about deepening my studies in the Python programming language because, in addition to being one of the main languages used by companies in the world, it was the one I had my first contact with Programming. During months of study, I was impressed by the potential that Python can offer.
+Sou **ligado no 220, não paro até resolver e aprendo rápido demais**! Tenho formação técnica e tô na facul de Ciência da Computação (termino em 2027). Me viro bem no Pacote Office e consigo ler e escrever em inglês técnico de boa.
