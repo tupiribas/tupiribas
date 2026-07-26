@@ -1,30 +1,40 @@
 # Olá! Eu sou o Tupi Guedes 👋
 
-Sou um **desenvolvedor de software** apaixonado por transformar ideias em realidade. Atualmente, busco uma oportunidade de estágio ou trainee para aplicar minhas habilidades e crescer profissionalmente, contribuindo com equipes inovadoras.
+Estudante de Ciência da Computação, focado em desenvolvimento backend com **Python** e **FastAPI**. Venho me aprofundando em testes automatizados (TDD), Docker e boas práticas de engenharia — hoje construindo a **Order API**, um projeto de portfólio que simula o backend de uma empresa de minimercados, com fluxo de trabalho real (branches, Pull Requests, Docker).
+
+Busco uma oportunidade de estágio em desenvolvimento para aplicar o que venho construindo e continuar evoluindo como desenvolvedor.
 
 ---
 
 ### Vamos Conectar? 📨
 
-* **LinkedIn**: [Meu LinkedIn](www.linkedin.com/in/tupi-g-839036208)
-* **Portfólio/GitHub**: [Meus Projetos](https://github.com/tupiribas?tab=repositories))
-* **E-mail**: [gtupi446@gmail.com](mailto:gtupi446@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tupi-guedes](https://www.linkedin.com/in/tupi-guedes)
+- **Portfólio**: [linkfly.to/tupiribas](https://linkfly.to/tupiribas)
+- **E-mail**: gtupi446@gmail.com
 
 ---
 
-### Minhas Ferramentas e Habilidades 💻
+### Foco principal 💻
 
-Possuo experiência com diversas tecnologias e linguagens:
+- **Linguagem**: Python
+- **Framework**: FastAPI
+- **Testes**: TDD, pytest
+- **Infraestrutura**: Docker
+- **Boas práticas**: SOLID, Clean Code
+- **Controle de versão**: Git, GitHub (feature branches, Pull Requests)
 
-* **Linguagens**: Python (com certificado Mimo.org!), Java, PHP, HTML, CSS, JavaScript, C, C#
-* **Frameworks**: Django, Laravel, React Native, Spring
-* **Banco de Dados**: MySQL
-* **Controle de Versão**: Git, GitHub
-* **Ambiente de Desenvolvimento**: VS Code
-* E outras ferramentas.
+### Também tenho contato com
+
+Java, PHP, JavaScript, Django, MySQL — bases que uso quando o projeto pede, mas meu foco de estudo hoje é o stack acima.
 
 ---
 
-### Um Pouco Mais de Mim 💡
+### Em destaque 🔨
 
-Sou **ligado no 220, não paro até resolver e aprendo rápido demais**! Tenho formação técnica e tô na facul de Ciência da Computação (termino em 2027). Me viro bem no Pacote Office e consigo ler e escrever em inglês técnico de boa.
+**[Order API](https://github.com/tupiribas/order-api)** — backend para uma rede de minimercados, construído com FastAPI, TDD e Docker, seguindo um fluxo de trabalho próximo do mercado real.
+
+---
+
+### Um pouco mais 💡
+
+Tenho formação técnica em Desenvolvimento de Sistemas e estou cursando Ciência da Computação (conclusão em 2027). Gosto de entender o "porquê" por trás de cada decisão de arquitetura, não só fazer funcionar.
